@@ -11,7 +11,7 @@ This project includes custom Python scripts to scan for API vulnerabilities and 
 - `api3.py` – Full async port scan + endpoint enumeration
 
 ## Tested On:
-- https://dsu.edu.in (authorized)
+- https://dsu.edu.in 
 - http://testhtml5.vulnweb.com
 - http://juice-shop.herokuapp.com
 
