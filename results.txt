@@ -1,0 +1,11 @@
+
+https://dsu.edu.in/api/user/1
+IP: 159.89.175.241
+Ports: 80, 443
+Connection: 200
+BOLA: [!] Potential BOLA: /user/2 returned 200
+Broken Auth: [+] No Broken Authentication detected
+Rate Limiting: [+] No Rate Limiting detected
+Path Traversal: [+] No Path Traversal detected
+
+--------------------------------------------------

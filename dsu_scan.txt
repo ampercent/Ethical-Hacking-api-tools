@@ -1,0 +1,8 @@
+
+https://dsu.edu.in
+IP: 159.89.175.241
+Ports: 53, 21, 25, 81, 80, 111, 110, 143, 443, 444, 465, 587, 993, 995
+Connection: 200
+API Endpoints: /login: Found, /admin: Found, /user: Found, /register: Found, /api/v1: Found, /api/v2: Found
+
+--------------------------------------------------

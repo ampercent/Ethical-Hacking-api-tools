@@ -1,0 +1,8 @@
+
+http://juice-shop.herokuapp.com
+IP: 54.220.192.176
+Ports: 80, 443
+Connection: 200
+API Endpoints: /login: Found, /admin: Found, /user: Found, /register: Found, /api/v1: Not Found, /api/v2: Not Found
+
+--------------------------------------------------

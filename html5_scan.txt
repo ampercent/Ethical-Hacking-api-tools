@@ -1,0 +1,8 @@
+
+http://testhtml5.vulnweb.com
+IP: 44.228.249.3
+Ports: 80
+Connection: 200
+API Endpoints: /login: Not Found, /admin: Error, /user: Not Found, /register: Not Found, /api/v1: Not Found, /api/v2: Not Found
+
+--------------------------------------------------

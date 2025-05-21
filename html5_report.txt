@@ -1,0 +1,22 @@
+
+http://testhtml5.vulnweb.com
+IP: 44.228.249.3
+Ports: 80
+Connection: 200
+BOLA: [!] BOLA test failed: Invalid URL 'http:///user/1': No host supplied
+Broken Auth: [+] No Broken Authentication detected
+Rate Limiting: [+] No Rate Limiting detected
+Path Traversal: [+] No Path Traversal detected
+
+--------------------------------------------------
+
+http://testhtml5.vulnweb.com
+IP: 44.228.249.3
+Ports: 80
+Connection: 200
+BOLA: [!] BOLA test failed: Invalid URL 'http:///user/1': No host supplied
+Broken Auth: [+] No Broken Authentication detected
+Rate Limiting: [+] No Rate Limiting detected
+Path Traversal: [+] No Path Traversal detected
+
+--------------------------------------------------

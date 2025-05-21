@@ -1,0 +1,11 @@
+
+http://juice-shop.herokuapp.com/rest/user/login
+IP: 54.220.192.176
+Ports: 80, 443
+Connection: 500
+BOLA: [!] Potential BOLA: /user/2 returned 200
+Broken Auth: [+] No Broken Authentication detected
+Rate Limiting: [+] No Rate Limiting detected
+Path Traversal: [+] No Path Traversal detected
+
+--------------------------------------------------
